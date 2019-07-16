@@ -10,7 +10,7 @@
 ```
 Course 1: Python for Data Science
 by: UC San Diego, computer science department
-status: incomplete
+status: in progrress
 ```
 
 `README file edits:`
