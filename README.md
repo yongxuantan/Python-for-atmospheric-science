@@ -10,7 +10,19 @@
 ```
 Course 1: Python for Data Science
 by: UC San Diego, computer science department
-status: in progress
+```
+```
+Course 2: Machine Learning
+by: UT Dallas, computer science department
+```
+```
+Course 3: Practical Aspects of Data Science
+by: UT Dallas, computer science department
+```
+```
+Courses 4: Probabilistic Graphical Models
+by: UT Dallas, computer science department
+    Stanfard University, computer science department
 ```
 
 `README file edits:`
