@@ -1,0 +1,158 @@
+
+=========== Naive Bayes training begins ===========
+------ Naive Bayes test result ------
+Correct Prediction:  463 / 478
+Accuracy:  96.862 %
+
+
+
+=========== Naive Bayes without stop words training begins ===========
+------ Naive Bayes without stop words test result ------
+Correct Prediction:  464 / 478
+Accuracy:  97.071 %
+
+
+
+=========== Logistic Regression training begins ===========
+Learning rate: 0.01 , Lambda value: 0.1 , Iterations: 100
+------ Logistic Regression test result ------
+Correct Prediction:  436 / 478
+Accuracy:  91.213 %
+
+
+
+=========== Logistic Regression without stop words training begins ===========
+Learning rate: 0.01 , Lambda value: 0.1 , Iterations: 100
+------ Logistic Regression without stop words test result ------
+Correct Prediction:  436 / 478
+Accuracy:  91.213 %
+
+
+
+=========== Logistic Regression training begins ===========
+Learning rate: 0.01 , Lambda value: 1 , Iterations: 100
+------ Logistic Regression test result ------
+Correct Prediction:  439 / 478
+Accuracy:  91.841 %
+
+
+
+=========== Logistic Regression without stop words training begins ===========
+Learning rate: 0.01 , Lambda value: 1 , Iterations: 100
+------ Logistic Regression without stop words test result ------
+Correct Prediction:  439 / 478
+Accuracy:  91.841 %
+
+
+
+=========== Logistic Regression training begins ===========
+Learning rate: 0.01 , Lambda value: 10 , Iterations: 100
+------ Logistic Regression test result ------
+Correct Prediction:  356 / 478
+Accuracy:  74.477 %
+
+
+
+=========== Logistic Regression without stop words training begins ===========
+Learning rate: 0.01 , Lambda value: 10 , Iterations: 100
+------ Logistic Regression without stop words test result ------
+Correct Prediction:  367 / 478
+Accuracy:  76.778 %
+
+
+
+=========== Logistic Regression training begins ===========
+Learning rate: 0.05 , Lambda value: 0.1 , Iterations: 100
+------ Logistic Regression test result ------
+Correct Prediction:  438 / 478
+Accuracy:  91.632 %
+
+
+
+=========== Logistic Regression without stop words training begins ===========
+Learning rate: 0.05 , Lambda value: 0.1 , Iterations: 100
+------ Logistic Regression without stop words test result ------
+Correct Prediction:  437 / 478
+Accuracy:  91.423 %
+
+
+
+=========== Logistic Regression training begins ===========
+Learning rate: 0.05 , Lambda value: 1 , Iterations: 100
+------ Logistic Regression test result ------
+Correct Prediction:  405 / 478
+Accuracy:  84.728 %
+
+
+
+=========== Logistic Regression without stop words training begins ===========
+Learning rate: 0.05 , Lambda value: 1 , Iterations: 100
+------ Logistic Regression without stop words test result ------
+Correct Prediction:  439 / 478
+Accuracy:  91.841 %
+
+
+
+=========== Logistic Regression training begins ===========
+Learning rate: 0.05 , Lambda value: 10 , Iterations: 100
+------ Logistic Regression test result ------
+Correct Prediction:  130 / 478
+Accuracy:  27.197 %
+
+
+
+=========== Logistic Regression without stop words training begins ===========
+Learning rate: 0.05 , Lambda value: 10 , Iterations: 100
+------ Logistic Regression without stop words test result ------
+Correct Prediction:  348 / 478
+Accuracy:  72.803 %
+
+
+
+=========== Logistic Regression training begins ===========
+Learning rate: 0.1 , Lambda value: 0.1 , Iterations: 100
+------ Logistic Regression test result ------
+Correct Prediction:  438 / 478
+Accuracy:  91.632 %
+
+
+
+=========== Logistic Regression without stop words training begins ===========
+Learning rate: 0.1 , Lambda value: 0.1 , Iterations: 100
+------ Logistic Regression without stop words test result ------
+Correct Prediction:  439 / 478
+Accuracy:  91.841 %
+
+
+
+=========== Logistic Regression training begins ===========
+Learning rate: 0.1 , Lambda value: 1 , Iterations: 100
+------ Logistic Regression test result ------
+Correct Prediction:  422 / 478
+Accuracy:  88.285 %
+
+
+
+=========== Logistic Regression without stop words training begins ===========
+Learning rate: 0.1 , Lambda value: 1 , Iterations: 100
+------ Logistic Regression without stop words test result ------
+Correct Prediction:  356 / 478
+Accuracy:  74.477 %
+
+
+
+=========== Logistic Regression training begins ===========
+Learning rate: 0.1 , Lambda value: 10 , Iterations: 100
+------ Logistic Regression test result ------
+Correct Prediction:  348 / 478
+Accuracy:  72.803 %
+
+
+
+=========== Logistic Regression without stop words training begins ===========
+Learning rate: 0.1 , Lambda value: 10 , Iterations: 100
+------ Logistic Regression without stop words test result ------
+Correct Prediction:  348 / 478
+Accuracy:  72.803 %
+
+
