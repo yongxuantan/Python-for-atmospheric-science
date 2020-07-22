@@ -3,6 +3,7 @@
 >Hi,
 >
 >This repository is intended to keep track of my progress as I work towards a career in **atmospheric science**. 
+>A shorter goal of mine is become a senior data scientist.
 >Feel free to use any code in here. For inquiries, please email me at ymtan1@hotmail.com.
 >
 >Mike T. :sunny:
@@ -23,6 +24,10 @@ by: UT Dallas, computer science department
 Courses 4: Probabilistic Graphical Models
 by: UT Dallas, computer science department
     Stanfard University, computer science department
+```
+```
+Course 5: Artificial Intelligence
+by: UT Dallas, computer science department
 ```
 
 `README file edits:`
