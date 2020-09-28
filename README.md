@@ -9,25 +9,20 @@
 >Mike T. :sunny:
 
 ```
-Course 1: Python for Data Science
+Course 1: Machine Learning
+Course 2: Practical Aspects of Data Science
+Course 3: Artificial Intelligence
+by: UT Dallas, computer science department
+```
+```
+Course 4: Python for Data Science
+Course 5: Probability and Statistics in Data Science
 by: UC San Diego, computer science department
 ```
 ```
-Course 2: Machine Learning
-by: UT Dallas, computer science department
-```
-```
-Course 3: Practical Aspects of Data Science
-by: UT Dallas, computer science department
-```
-```
-Courses 4: Probabilistic Graphical Models
+Courses 6: Probabilistic Graphical Models
 by: UT Dallas, computer science department
     Stanfard University, computer science department
-```
-```
-Course 5: Artificial Intelligence
-by: UT Dallas, computer science department
 ```
 
 `README file edits:`
